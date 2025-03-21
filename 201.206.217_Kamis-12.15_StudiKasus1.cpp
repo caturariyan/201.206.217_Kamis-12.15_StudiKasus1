@@ -65,6 +65,7 @@ public:
     }
 
     void tampilkanData() {
+	cout<<"==================================================================="<<endl;
 		cout << "\n\t\t\tPROVINSI "<<provinsi;
         cout << "\n\t\tKABUPATEN "<<kecamatan<<endl<<endl;
         cout << "NIK               : " << nik << endl;
